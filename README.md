@@ -11,7 +11,7 @@ Practice working in a team with defined roles
 Develop skills in component-based frontend architecture
 Learn best practices for web application development
 
-# Tech Stack
+# Technology Stack
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
