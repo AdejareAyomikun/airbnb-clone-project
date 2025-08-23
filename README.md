@@ -69,7 +69,7 @@ Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 
-# Project Roles and Responsibilities
+# Team Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team, manages deliverables
 Frontend Developers	Implements UI components, ensures responsive design
