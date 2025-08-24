@@ -50,6 +50,8 @@ Testing: Implement unit and integration tests
 
 # API Security
 
+# CI/CD Pipeline
+
 # Design Goals
 Create intuitive booking flow
 Maintain visual consistency
