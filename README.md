@@ -47,6 +47,9 @@ Documentation: Keep all project documentation updated
 Testing: Implement unit and integration tests
 
 # Database Design
+
+# API Security
+
 # Design Goals
 Create intuitive booking flow
 Maintain visual consistency
